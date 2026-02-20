@@ -1,1 +1,52 @@
-theme: jekyll-theme-slate
+# Site settings
+title: "Jason A. Yoder"
+subtitle: "Assistant Professor of CSSE"
+name: "Jason A. Yoder"
+description: "Personal website of Jason A. Yoder, Assistant Professor of Computer Science and Software Engineering at Rose-Hulman Institute of Technology."
+url: "https://jasonayoder.github.io"
+baseurl: ""
+
+# Theme
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "air"
+
+# Plugins
+plugins:
+  - jekyll-include-cache
+
+# Author sidebar
+author:
+  name: "Jason A. Yoder"
+  bio: "Assistant Professor of CSSE at Rose-Hulman Institute of Technology. Researching bio-inspired AI, neuroevolution, and evolutionary development."
+  avatar: "/assets/images/bio-photo.jpg"
+  email: "yoder1@rose-hulman.edu"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jasonayoder"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=pC0cZWsAAAAJ&hl=en"
+
+# Build settings
+include:
+  - _pages
+
+exclude:
+  - claude-docs
+  - source
+  - CLAUDE.md
+  - .devcontainer
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
+      toc: true
