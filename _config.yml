@@ -1,8 +1,8 @@
 # Site settings
 title: "Jason A. Yoder"
-subtitle: "Assistant Professor of CSSE"
+subtitle: "Associate Professor of CSSE"
 name: "Jason A. Yoder"
-description: "Personal website of Jason A. Yoder, Assistant Professor of Computer Science and Software Engineering at Rose-Hulman Institute of Technology."
+description: "Personal website of Jason A. Yoder, Associate Professor of Computer Science and Software Engineering at Rose-Hulman Institute of Technology."
 url: "https://jasonayoder.github.io"
 baseurl: ""
 
@@ -17,7 +17,7 @@ plugins:
 # Author sidebar
 author:
   name: "Jason A. Yoder"
-  bio: "Assistant Professor of CSSE at Rose-Hulman Institute of Technology. Researching bio-inspired AI, neuroevolution, and evolutionary development."
+  bio: "Associate Professor of CSSE at Rose-Hulman Institute of Technology. Researching bio-inspired AI, neuroevolution, and evolutionary development."
   avatar: "/assets/images/bio-photo.jpg"
   email: "yoder1@rose-hulman.edu"
   links:
