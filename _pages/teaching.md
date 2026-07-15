@@ -14,7 +14,7 @@ I value learning quality over strict timeliness, provide generous extensions, an
 
 ### CSSE220: Object-Oriented Software Development
 
-My most-taught course---17 offerings across 26 sections from Fall 2017 to Spring 2024. CSSE220 is the second course in the CSSE major sequence, bridging from Python to Java.
+My most-taught course, which I still love teaching. CSSE220 is the second course in the CSSE major sequence, bridging from Python to Java.
 
 I've invested heavily in this course, developing:
 - The **Genetic Algorithm Research Project (GARP)** as an alternative final project connecting coursework to real research
@@ -22,9 +22,9 @@ I've invested heavily in this course, developing:
 - Video lectures, pre/post-course surveys, and an incentive points system
 - TA-led course improvement projects (topic summaries, GradeScope migration, and more)
 
-### CSSE490/CSSE314: Bio-Inspired Artificial Intelligence
+### CSSE314: Bio-Inspired Artificial Intelligence
 
-Designed from scratch and taught four times (2021--2023), this course was approved as a permanent offering (CSSE314) starting 2024--25. Based on Floreano & Mattiussi's *Bio-Inspired AI* (MIT Press, 2008), it features:
+Designed from scratch and iteratively developed, this course covers a great range of content leaves countless opportunities for constructive creativity. I utilize the excellent text from Floreano & Mattiussi: *Bio-Inspired AI* (MIT Press, 2008), it features:
 
 - "Build Your Own Homework" assignments
 - Jigsaw readings and Hypothesis annotations
@@ -35,9 +35,7 @@ Designed from scratch and taught four times (2021--2023), this course was approv
 
 ### CSSE280: Introduction to Web Programming
 
-Taught four times (2019--2021) in a partially flipped format with "Follow Along" coding videos, integrated ZyBooks, and Airtable.
-
-[Sample Student Portfolio](/teaching/csse280/sample_portfolio/){: .btn .btn--info}
+Taught many times in a variety of formats and content. Latest iteration includes a python webserver from scratch, with basic HTML/CSS/JS, and a final project where students learn a new web framework and develop a project in the final weeks.
 
 ### Other Courses
 
@@ -45,6 +43,7 @@ Taught four times (2019--2021) in a partially flipped format with "Follow Along"
 - **CSSE490: Evolutionary Computation** (Fall 2019, 6 students, entirely new)
 - **CSSE290: What is Life? (in Computers)** -- Co-developed and co-taught with Robert Williamson (Winter 2021). Led to a Learning & Teaching grant for a new Artificial Life course.
 - **CSSE290: Research Lab I, II, III** (2023--2024) -- Organized the first-ever CSSE Research Symposium (Spring 2024) with a keynote speaker, alumni speakers, a printed program, and surprise awards.
+- **CSSE290: Artificial Life** (2024--2025) -- New course developed with support by a Learning & Teaching grant. Pilot course included 4 students who developed a portfolio of their learning and presented weekly to each other while covering a wide range of topics in artificial life, including cellular automata, agent-based modeling, and evolutionary robotics.
 
 ## Prior Teaching
 
